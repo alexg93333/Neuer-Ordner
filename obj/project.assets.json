@@ -1,0 +1,161 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BasicConsoleUtilities/1.0.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ConsoleUtilities.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ConsoleUtilities.dll": {}
+        }
+      },
+      "ConsoleUtilities/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/ConsoleUtilities.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/ConsoleUtilities.dll": {}
+        }
+      },
+      "NvAPIWrapper.Net/0.8.1.101": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NvAPIWrapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/NvAPIWrapper.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicConsoleUtilities/1.0.0.6": {
+      "sha512": "+lFxOxgMzgoxS/B1a2w23NSGJGYA+amEtWUH6Dt5+Dt8XvsvrWztfSCJXLUMZ3OdpHQ32iKbIWrC3K9Ktoa82A==",
+      "type": "package",
+      "path": "basicconsoleutilities/1.0.0.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "basicconsoleutilities.1.0.0.6.nupkg.sha512",
+        "basicconsoleutilities.nuspec",
+        "lib/net45/ConsoleUtilities.dll",
+        "lib/netstandard2.0/ConsoleUtilities.dll"
+      ]
+    },
+    "ConsoleUtilities/1.0.0": {
+      "sha512": "6hCd9Z1qNabQTGxPdAOliiRIT2JAFilyEB2HihfB2f4lXc2oj5tJSymw/0DMLynMmUAMeyksMVeqLKDK8F+3AA==",
+      "type": "package",
+      "path": "consoleutilities/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "consoleutilities.1.0.0.nupkg.sha512",
+        "consoleutilities.nuspec",
+        "lib/netcoreapp2.0/ConsoleUtilities.dll"
+      ]
+    },
+    "NvAPIWrapper.Net/0.8.1.101": {
+      "sha512": "qX+5EQ32tCTqBkX/9BNfx7w4HPi18s3XhMubjbxSjPhYQ6pXWL+HGnaZEmGvFlOxvsQN+/6eV3x5bRo1CDY/mQ==",
+      "type": "package",
+      "path": "nvapiwrapper.net/0.8.1.101",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net45/NvAPIWrapper.dll",
+        "lib/net45/NvAPIWrapper.xml",
+        "lib/netstandard2.0/NvAPIWrapper.dll",
+        "lib/netstandard2.0/NvAPIWrapper.xml",
+        "nvapiwrapper.net.0.8.1.101.nupkg.sha512",
+        "nvapiwrapper.net.nuspec",
+        "readme.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BasicConsoleUtilities >= 1.0.0.6",
+      "ConsoleUtilities >= 1.0.0",
+      "NvAPIWrapper.Net >= 0.8.1.101"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\aleX\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\aleX\\Desktop\\Neuer Ordner\\Neuer Ordner.csproj",
+      "projectName": "Neuer Ordner",
+      "projectPath": "C:\\Users\\aleX\\Desktop\\Neuer Ordner\\Neuer Ordner.csproj",
+      "packagesPath": "C:\\Users\\aleX\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aleX\\Desktop\\Neuer Ordner\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\aleX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "BasicConsoleUtilities": {
+            "target": "Package",
+            "version": "[1.0.0.6, )"
+          },
+          "ConsoleUtilities": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
+          "NvAPIWrapper.Net": {
+            "target": "Package",
+            "version": "[0.8.1.101, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

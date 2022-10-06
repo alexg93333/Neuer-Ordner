@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "blCkvq7heT9G2W7wr6yi85qe6IAcaKVn/A0OkVsoXXCIsnIHivzA9tr2jmDG1cn4Jo5vyC+Q0H9O5jc/NycXVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleX\\Desktop\\Neuer Ordner\\Neuer Ordner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleX\\.nuget\\packages\\basicconsoleutilities\\1.0.0.6\\basicconsoleutilities.1.0.0.6.nupkg.sha512",
+    "C:\\Users\\aleX\\.nuget\\packages\\consoleutilities\\1.0.0\\consoleutilities.1.0.0.nupkg.sha512",
+    "C:\\Users\\aleX\\.nuget\\packages\\nvapiwrapper.net\\0.8.1.101\\nvapiwrapper.net.0.8.1.101.nupkg.sha512"
+  ],
+  "logs": []
+}

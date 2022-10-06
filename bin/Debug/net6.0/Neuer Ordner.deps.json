@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Neuer Ordner/1.0.0": {
+        "dependencies": {
+          "BasicConsoleUtilities": "1.0.0.6",
+          "ConsoleUtilities": "1.0.0",
+          "NvAPIWrapper.Net": "0.8.1.101"
+        },
+        "runtime": {
+          "Neuer Ordner.dll": {}
+        }
+      },
+      "BasicConsoleUtilities/1.0.0.6": {
+        "runtime": {
+          "lib/netstandard2.0/ConsoleUtilities.dll": {
+            "assemblyVersion": "1.0.0.5",
+            "fileVersion": "1.0.0.5"
+          }
+        }
+      },
+      "ConsoleUtilities/1.0.0": {},
+      "NvAPIWrapper.Net/0.8.1.101": {
+        "runtime": {
+          "lib/netstandard2.0/NvAPIWrapper.dll": {
+            "assemblyVersion": "0.8.1.100",
+            "fileVersion": "0.8.1.100"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Neuer Ordner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BasicConsoleUtilities/1.0.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+lFxOxgMzgoxS/B1a2w23NSGJGYA+amEtWUH6Dt5+Dt8XvsvrWztfSCJXLUMZ3OdpHQ32iKbIWrC3K9Ktoa82A==",
+      "path": "basicconsoleutilities/1.0.0.6",
+      "hashPath": "basicconsoleutilities.1.0.0.6.nupkg.sha512"
+    },
+    "ConsoleUtilities/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6hCd9Z1qNabQTGxPdAOliiRIT2JAFilyEB2HihfB2f4lXc2oj5tJSymw/0DMLynMmUAMeyksMVeqLKDK8F+3AA==",
+      "path": "consoleutilities/1.0.0",
+      "hashPath": "consoleutilities.1.0.0.nupkg.sha512"
+    },
+    "NvAPIWrapper.Net/0.8.1.101": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qX+5EQ32tCTqBkX/9BNfx7w4HPi18s3XhMubjbxSjPhYQ6pXWL+HGnaZEmGvFlOxvsQN+/6eV3x5bRo1CDY/mQ==",
+      "path": "nvapiwrapper.net/0.8.1.101",
+      "hashPath": "nvapiwrapper.net.0.8.1.101.nupkg.sha512"
+    }
+  }
+}

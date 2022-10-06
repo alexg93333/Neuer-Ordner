@@ -1,0 +1,18 @@
+C:\Users\aleX\Desktop\Neuer Ordner\bin\Debug\net6.0\Neuer Ordner.exe
+C:\Users\aleX\Desktop\Neuer Ordner\bin\Debug\net6.0\Neuer Ordner.deps.json
+C:\Users\aleX\Desktop\Neuer Ordner\bin\Debug\net6.0\Neuer Ordner.runtimeconfig.json
+C:\Users\aleX\Desktop\Neuer Ordner\bin\Debug\net6.0\Neuer Ordner.dll
+C:\Users\aleX\Desktop\Neuer Ordner\bin\Debug\net6.0\Neuer Ordner.pdb
+C:\Users\aleX\Desktop\Neuer Ordner\obj\Debug\net6.0\Neuer Ordner.csproj.AssemblyReference.cache
+C:\Users\aleX\Desktop\Neuer Ordner\obj\Debug\net6.0\Neuer Ordner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleX\Desktop\Neuer Ordner\obj\Debug\net6.0\Neuer Ordner.AssemblyInfoInputs.cache
+C:\Users\aleX\Desktop\Neuer Ordner\obj\Debug\net6.0\Neuer Ordner.AssemblyInfo.cs
+C:\Users\aleX\Desktop\Neuer Ordner\obj\Debug\net6.0\Neuer Ordner.csproj.CoreCompileInputs.cache
+C:\Users\aleX\Desktop\Neuer Ordner\obj\Debug\net6.0\Neuer Ordner.dll
+C:\Users\aleX\Desktop\Neuer Ordner\obj\Debug\net6.0\refint\Neuer Ordner.dll
+C:\Users\aleX\Desktop\Neuer Ordner\obj\Debug\net6.0\Neuer Ordner.pdb
+C:\Users\aleX\Desktop\Neuer Ordner\obj\Debug\net6.0\Neuer Ordner.genruntimeconfig.cache
+C:\Users\aleX\Desktop\Neuer Ordner\obj\Debug\net6.0\ref\Neuer Ordner.dll
+C:\Users\aleX\Desktop\Neuer Ordner\bin\Debug\net6.0\ConsoleUtilities.dll
+C:\Users\aleX\Desktop\Neuer Ordner\bin\Debug\net6.0\NvAPIWrapper.dll
+C:\Users\aleX\Desktop\Neuer Ordner\obj\Debug\net6.0\Neuer Ordner.csproj.CopyComplete
